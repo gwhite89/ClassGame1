@@ -552,6 +552,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1912604870
 GameObject:
   m_ObjectHideFlags: 0
@@ -778,6 +779,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 2253107 (Add Circle)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -788,9 +791,12 @@ SceneRoots:
 <<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 719900757}
+<<<<<<< HEAD
   - {fileID: 1917548035}
   - {fileID: 1912604874}
 =======
 >>>>>>> parent of c991f19 (Add a Box)
 =======
 >>>>>>> parent of c991f19 (Add a Box)
+=======
+>>>>>>> parent of 2253107 (Add Circle)

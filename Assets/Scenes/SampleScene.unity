@@ -376,7 +376,6 @@ MonoBehaviour:
   m_SoftShadowQuality: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RenderingLayersMask:
     serializedVersion: 0
     m_Bits: 1
@@ -500,8 +499,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> parent of c991f19 (Add a Box)
 =======
 >>>>>>> parent of c991f19 (Add a Box)
 =======
@@ -790,12 +787,9 @@ SceneRoots:
   - {fileID: 832575519}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   - {fileID: 719900757}
   - {fileID: 1917548035}
   - {fileID: 1912604874}
-=======
->>>>>>> parent of c991f19 (Add a Box)
 =======
 >>>>>>> parent of c991f19 (Add a Box)
 =======
